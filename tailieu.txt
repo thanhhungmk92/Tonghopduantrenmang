@@ -1,0 +1,56 @@
+https://stackoverflow.com/questions/43557321/angular-4-how-to-include-bootstrap
+
+https://www.w3schools.com/howto/howto_css_checkout_form.asp
+
+https://www.w3schools.com/bootstrap/bootstrap_ref_js_modal.asp
+
+https://azmind.com/bootstrap-modal-registration-forms/
+
+https://www.youtube.com/watch?v=zxwZBEsQ1Mc remember me
+
+wifi: ho1lamch!@@
+
+https://codepen.io/CSWApps/pen/XJoLmN // alert thoi gian
+
+http://jsfiddle.net/9GwY8/1/
+
+http://www.tutorialspoint.com/design_pattern/factory_pattern.htm
+
+https://colorlib.com/wp/free-personal-website-templates/ template
+
+https://techblog.vn/design-patterns
+
+https://harvesthq.github.io/chosen/
+1331 nguyen tat thanh
+
+https://www.youtube.com/watch?v=Yjbm2kva8Do
+
+https://loiane.com/2017/08/how-to-add-bootstrap-to-an-angular-cli-project/
+
+https://laravel.com/docs/5.6/scout
+
+https://github.com/todayqq/notification
+
+https://toidicode.com/component-trong-vue-js-325.html
+
+https://viblo.asia/p/laravel-55-vuejs-simple-crud-project-Do754WJVlM6
+
+https://stackoverflow.com/questions/45007905/custom-message-laravel-validation
+
+https://www.jqueryscript.net/other/Bootstrap-Based-Flash-Message-Plugin-With-jQuery.html
+
+https://viblo.asia/p/eloquent-relationships-in-laravel-phan-3-MJykjmxyePB
+
+https://allaravel.com/laravel-tutorials/laravel-cookie-luu-tru-thong-tin-duyet-web/
+
+https://kipalog.com/posts/Repository-Pattern-trong-Laravel
+
+php artisan make:model Product -m
+
+Auth::guard
+https://stackoverflow.com/questions/43642816/auth-guard-admin-is-not-defined
+https://stackoverflow.com/questions/37171269/laravel-5-2-auth-facade-and-authguardguard
+https://viblo.asia/p/authentication-trong-laravel-53-EyORkbOeGqB
+https://laracasts.com/discuss/channels/laravel/how-does-authguard-work?page=1
+
+http://jqueryui.com/sortable/
